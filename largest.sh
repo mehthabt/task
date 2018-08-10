@@ -7,7 +7,7 @@ then
 sum=`expr $sum + ${ar[$i]}`
 fi
 done
-echo "sum is - $sum"
+echo "total is - $sum"
 
 
 
